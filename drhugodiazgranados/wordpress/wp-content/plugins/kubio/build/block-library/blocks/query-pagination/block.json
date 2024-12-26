@@ -1,6 +1,0 @@
-{
-	"apiVersion": 2,
-	"name": "kubio/query-pagination",
-	"category": "kubio-blog-components",
-	"usesContext": ["queryId", "query", "queryContext","useMainQuery"]
-}
